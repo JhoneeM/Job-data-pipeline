@@ -1,16 +1,16 @@
 job_id,company,role,status,date_applied,job_posted_date,days_to_apply,date_responded,salary_min,salary_max,work_type,city,job_link,notes
-JOB001,Google,Software Engineer,Applied,2026-03-20,2026-03-13,7,,120000,160000,Remote,,https://careers.google.com/jobs/001,Applied through referral portal
-JOB002,Amazon,SDE,Interview,2026-03-18,2026-03-10,8,2026-03-23,130000,175000,Hybrid,Seattle WA,https://amazon.jobs/002,Phone screen scheduled for next week
-JOB003,Microsoft,Backend Engineer,Rejected,2026-03-15,2026-03-05,10,2026-03-24,115000,150000,Hybrid,Redmond WA,https://careers.microsoft.com/003,Rejected after technical screen
-JOB004,Netflix,Data Engineer,Applied,2026-03-22,2026-03-16,6,,140000,185000,Remote,,https://jobs.netflix.com/004,Dream job - strong culture fit
-JOB005,Meta,Data Scientist,Interview,2026-03-10,2026-03-01,9,2026-03-22,135000,170000,Hybrid,Menlo Park CA,https://metacareers.com/005,Two rounds completed - awaiting decision
-JOB006,Apple,iOS Developer,Applied,2026-03-25,2026-03-18,7,,125000,160000,On-site,Cupertino CA,https://jobs.apple.com/006,Applied via LinkedIn Easy Apply
-JOB007,Spotify,Backend Engineer,Rejected,2026-03-05,2026-02-22,11,2026-03-12,110000,145000,Remote,,https://spotify.com/jobs/007,Rejected - needed more Go experience
-JOB008,Airbnb,Data Engineer,Applied,2026-03-21,2026-03-14,7,,130000,165000,Remote,,https://careers.airbnb.com/008,Strong match on job description
-JOB009,Uber,Software Engineer,Interview,2026-03-12,2026-03-03,9,2026-03-20,125000,160000,Hybrid,San Francisco CA,https://uber.com/careers/009,Coding challenge sent - due Friday
-JOB010,Stripe,Data Analyst,Applied,2026-03-23,2026-03-17,6,,105000,135000,Remote,,https://stripe.com/jobs/010,Cover letter tailored for fintech focus
-JOB011,Salesforce,Cloud Engineer,Rejected,2026-03-08,2026-02-25,11,2026-03-18,115000,150000,Hybrid,San Francisco CA,https://salesforce.com/careers/011,Rejected - required Salesforce cert
-JOB012,LinkedIn,Data Engineer,Interview,2026-03-17,2026-03-09,8,2026-03-23,130000,170000,Hybrid,Sunnyvale CA,https://linkedin.com/jobs/012,HR screen done - technical round next
-JOB013,Twitter,Software Engineer,Applied,2026-03-24,2026-03-16,8,,100000,135000,Remote,,https://careers.twitter.com/013,Monitoring for updates
-JOB014,Adobe,Backend Developer,Rejected,2026-03-03,2026-02-21,10,2026-03-11,110000,140000,Hybrid,San Jose CA,https://adobe.com/careers/014,Rejected - position filled internally
-JOB015,Shopify,Data Scientist,Applied,2026-03-26,2026-03-19,7,,120000,155000,Remote,,https://shopify.com/careers/015,Great remote culture - top priority
+JOB 1,Google,Software Engineer,Applied,2026-03-20,2026-03-13,7,,120000,160000,Remote,,https://careers.google.com/jobs/001,Applied through referral portal
+JOB 2,Amazon,SDE,Interview,2026-03-18,2026-03-10,8,2026-03-23,130000,175000,Hybrid,Seattle WA,https://amazon.jobs/002,Phone screen scheduled for next week
+JOB 3,Microsoft,Backend Engineer,Rejected,2026-03-15,2026-03-05,10,2026-03-24,115000,150000,Hybrid,Redmond WA,https://careers.microsoft.com/003,Rejected after technical screen
+JOB 4,Netflix,Data Engineer,Applied,2026-03-22,2026-03-16,6,,140000,185000,Remote,,https://jobs.netflix.com/004,Dream job - strong culture fit
+JOB 5,Meta,Data Scientist,Interview,2026-03-10,2026-03-01,9,2026-03-22,135000,170000,Hybrid,Menlo Park CA,https://metacareers.com/005,Two rounds completed - awaiting decision
+JOB 6,Apple,iOS Developer,Applied,2026-03-25,2026-03-18,7,,125000,160000,On-site,Cupertino CA,https://jobs.apple.com/006,Applied via LinkedIn Easy Apply
+JOB 7,Spotify,Backend Engineer,Rejected,2026-03-05,2026-02-22,11,2026-03-12,110000,145000,Remote,,https://spotify.com/jobs/007,Rejected - needed more Go experience
+JOB 8,Airbnb,Data Engineer,Applied,2026-03-21,2026-03-14,7,,130000,165000,Remote,,https://careers.airbnb.com/008,Strong match on job description
+JOB 9,Uber,Software Engineer,Interview,2026-03-12,2026-03-03,9,2026-03-20,125000,160000,Hybrid,San Francisco CA,https://uber.com/careers/009,Coding challenge sent - due Friday
+JOB 10,Stripe,Data Analyst,Applied,2026-03-23,2026-03-17,6,,105000,135000,Remote,,https://stripe.com/jobs/010,Cover letter tailored for fintech focus
+JOB 11,Salesforce,Cloud Engineer,Rejected,2026-03-08,2026-02-25,11,2026-03-18,115000,150000,Hybrid,San Francisco CA,https://salesforce.com/careers/011,Rejected - required Salesforce cert
+JOB 12,LinkedIn,Data Engineer,Interview,2026-03-17,2026-03-09,8,2026-03-23,130000,170000,Hybrid,Sunnyvale CA,https://linkedin.com/jobs/012,HR screen done - technical round next
+JOB 13,Twitter,Software Engineer,Applied,2026-03-24,2026-03-16,8,,100000,135000,Remote,,https://careers.twitter.com/013,Monitoring for updates
+JOB 14,Adobe,Backend Developer,Rejected,2026-03-03,2026-02-21,10,2026-03-11,110000,140000,Hybrid,San Jose CA,https://adobe.com/careers/014,Rejected - position filled internally
+JOB 15,Shopify,Data Scientist,Applied,2026-03-26,2026-03-19,7,,120000,155000,Remote,,https://shopify.com/careers/015,Great remote culture - top priority
